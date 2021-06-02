@@ -1,2 +1,2 @@
-hello
-next change
+print ('hello')
+print ('next change')
